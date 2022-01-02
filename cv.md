@@ -16,3 +16,29 @@
   * JavaScript (Basic)
   * Git
 
+### Code examples:
+```
+function multiply(a, b){
+  var mult = 0;
+  mult = a * b;
+  return mult
+}
+```
+### Experience:
+***System administrator:***
+
+   * Bakery factory, 2007 - 2008
+   
+   * Financial Department, 2008 - 2012
+  
+   * Сanning factory, 2012 - 2017
+        	
+   * Weekly Newspaper, 2017 - currently working	
+
+### Education:
+  * [SRSTU (NPI) (South-Russian State Technical University)](https://www.npi-tu.ru/)
+  * Сurrently taking the RsShool course
+  
+### Languages:
+  * English: A2
+
