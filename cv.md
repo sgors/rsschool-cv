@@ -1,3 +1,5 @@
+![My photo](me.jpg)
+
 # *Sergey Gorsky*
 
 ### Contacts:
