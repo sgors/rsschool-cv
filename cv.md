@@ -1,4 +1,4 @@
-![My photo](me.jpg)
+![My photo](images/me.jpg)
 
 # *Sergey Gorsky*
 
